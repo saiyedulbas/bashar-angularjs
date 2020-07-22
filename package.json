@@ -1,0 +1,19 @@
+{
+    "title": "bashar_angularjs_app",
+    "author": "Saiyedul Bashar",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "index.php"
+    },
+    "description": "this is an angularjs application",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://bashar-angularjs-todolist.000webhostapp.com/",
+    
+}
